@@ -9,6 +9,7 @@ function View() {
   return (
     <div>
       <>
+      
         {view && (
           <div className="bg-blue-300">
             <p>
