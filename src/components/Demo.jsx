@@ -1,8 +1,8 @@
 import React from 'react'
 
-function Demo() {
+function Demo({name}) {
   return (
-    <div>Demo</div>
+    <div>Demo {name}</div>
   )
 }
 
